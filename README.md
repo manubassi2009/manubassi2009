@@ -1,4 +1,4 @@
-/*https://rahuldkjain.github.io/gh-profile-readme-generator/*/
+/*https://rahuldkjain.github.io/gh-profile-readme-generator*/
 <h1 align="center">Hi 👋, I'm Manufischer Bassi</h1>
 <h3 align="center">A am passionate developer from UK</h3>
 
